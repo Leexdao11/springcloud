@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
+        <module name="rureka-client1" />
+        <module name="service-feign" />
+        <module name="springcloud-EurekaServer" />
+        <module name="springcloud-servicezuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="rureka-client1" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="springcloud-auth" target="1.8" />
+      <module name="springcloud-commons" target="1.8" />
+      <module name="springcloud-EurekaClient" target="1.8" />
+      <module name="springcloud-EurekaServer" target="1.8" />
+      <module name="springcloud-sericefeign" target="1.8" />
+      <module name="springcloud-serviceribbon" target="1.8" />
+      <module name="springcloud-servicezuul" target="1.8" />
+      <module name="springcloudeurekaclient" target="1.8" />
+      <module name="springcloudeurekaclient1" target="1.8" />
+      <module name="springcloudtest" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

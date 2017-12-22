@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rureka-client1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-EurekaClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sericefeign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-serviceribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-servicezuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudeurekaclient1" charset="UTF-8" />
+  </component>
+</project>
